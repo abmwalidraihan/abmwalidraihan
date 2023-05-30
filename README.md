@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Walid Raihan</h1>
-<h3 align="center">Full Stack Developer with a huge love for React.js, Laravel, WordPress, Performance Engineering, and System Architecture. Currently open to new projects and employment opportunities</h3>
+<h3 align="center">Full Stack Developer with a huge love for Vue.js, React.js, Laravel, WordPress, Performance Engineering, and System Architecture. Currently open to new projects and employment opportunities</h3>
 
 - 📫 How to reach me **walidraihan@gmail.com**
 
