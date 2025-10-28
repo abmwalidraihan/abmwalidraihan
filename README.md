@@ -10,7 +10,7 @@
   <a href="mailto:walidraihan@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
 
-**14+ years** of crafting high-performance web solutions | **$25/hr** | Open for new projects & opportunities
+**14+ years** of crafting high-performance web solutions | **$45/hr** | Open for new projects & opportunities
 
 </div>
 
